@@ -10,10 +10,16 @@ similar songs, allowing you to go back into rekordbox and search up the duplicat
 1. Click 'clone' and save the repository to a known location on your computer. 
 2. Open a Terminal and change to the repository. 
 3. Copy in your exported playlist .txt file into the repository.
-4. For simplicity sake change the name ofyour exported .txt to 'playlist', otherwise go into the FindDuplicates.py source code and change the 
+4. For simplicity sake change the name of your exported .txt file to 'playlist', otherwise go into the FindDuplicates.py source code and change the 
    global variable 'file_name' with your .txt file.  
 5. Run the command 'python FindDuplicates.py > output.txt' 
 6. open output.txt when the program has finished to see the results. (This may take a couple minutes based on the amount of songs in your playlist)
+
+optional step: 
+-  You can go into the source code and change the 'RATIO' variable to change how similar two tracks need to be for them to be considered a 'match'.
+-  The value will need to be between 0 and 1, the closer to 1 it is tighter the match will be. I have personally found that between 0.7 and 0.9 it will 
+-  be the most accurate. 
+
 
 
 # Bugs or problems
