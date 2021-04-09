@@ -1,0 +1,35 @@
+#	Track Title	Key	BPM	File Type	DJ Play Count	Time	Date Added	Comments	Rating
+1	Love To Give [www.slider.kz]	1B	87.00	MP3	8	03:22	2020-04-04		     
+2	Culture Shock - Neighbourhood	4A	87.00	MP3	3	04:41	2020-04-04		     
+3	Culture Shock - Get Physical	4A	87.00	MP3	46	04:55	2020-04-04		     
+4	Culture Shock - Renaissance	4A	87.00	MP3	4	04:16	2020-04-04		     
+5	Culture Shock - Bunker	4A	87.00	MP3	19	04:41	2020-04-04		     
+6	AURA - Panic Room (Culture Shock Remix) [www.slider.kz]	4A	87.00	MP3	16	04:46	2020-01-06		     
+7	Culture Shock - Renaissance [www.slider.kz]	4A	87.00	MP3	1	03:29	2020-04-04		     
+8	Culture Shock - Steam Machine	4B	87.00	MP3	7	04:59	2020-04-04		     
+9	Camo & Krooked - Broken Pieces (ft. Nihils) (Culture Shock Remix)	12A	87.00	MP3	1	04:13	2020-04-04		     
+10	Culture Shock feat. Raphaella - Have It All [www.slider.kz]	5A	87.00	MP3	8	05:03	2020-04-04		     
+11	Culture Shock - There for You [www.slider.kz]	9B	87.00	MP3	0	04:32	2020-04-04		     
+12	City Lights 	4A	87.00	MP3	2	03:26	2020-04-04		     
+13	Culture Shock - Rush Connection	4A	87.00	MP3	23	04:27	2020-04-04		     
+14	Culture Shock - Take Control [www.slider.kz]	12B	87.00	MP3	1	04:58	2020-04-04		     
+15	Culture Shock - Neighbourhood [www.slider.kz]	4A	87.00	MP3	3	04:41	2020-04-04		     
+16	Culture Shock - Bunker [www.slider.kz]	4A	87.00	MP3	49	04:38	2020-01-06		     
+17	Culture Shock - Low Frequency	4A	87.00	MP3	67	04:03	2020-04-04		     
+18	Culture Shock - Freak Like Me (Lee Walker & DJ Deon Remix) (Edited by Rains)	6A	88.26	MP3	2	02:50	2020-04-04		     
+19	Culture Shock - City Lights (Instrumental)	4A	87.00	WAV	11	04:35	2020-04-04	Purchased at Beatport	     
+20	Billy Lockett, Culture Shock, Dimension - Love To Give (Original Mix)	1B	87.00	WAV	10	04:38	2020-04-04	Purchased at Beatport	
+21	Au-Ra - Panic Room (Culture Shock Remix)	4A	87.00	WAV	32	04:46	2020-04-04	Purchased at Beatport	     
+22	Culture Shock - Renaissance (Original Mix)	4A	87.00	WAV	4	04:16	2020-04-04	Purchased at Beatport	     
+23	Culture Shock - Piano Dark (Original Mix)	6A	87.00	WAV	15	05:53	2020-04-04		     
+24	Culture Shock - Neighbourhood (Original Mix)	4A	87.00	WAV	6	04:41	2020-04-04		     
+25	Camo & Krooked, Nihils - Broken Pieces (Culture Shock Remix)	12A	87.00	WAV	3	04:13	2020-04-04	Purchased at Beatport	     
+26	Dimension & Culture Shock - Dont Sleep	4A	87.00	MP3	25	03:43	2020-06-29		     
+27	Culture Shock - There for You (LSB Remix) [www.slider.kz]	9B	87.00	MP3	5	05:53	2020-06-29		     
+28	Protection	5A	86.86	MP3	8	05:32	2020-06-29	http://electropeople.org/	     
+29	Culture_Shock-There_for_You-LSB_Remix	9B	87.00	WAV	4	05:53	2021-01-03		     
+30	Culture_Shock-Visions	1A	87.00	WAV	19	04:24	2021-01-03		     
+31	Culture Shock - Lost	1A	87.00	MP3	13	04:01	2021-02-08		     
+32	Dimension_and_Culture_Shock-Love_To_Give_(feat_Billy_Lockett)	1B	87.00	WAV	0	04:38	2021-03-05		     
+33	Culture_Shock_-_Deconstruct_(Original_Mix)	2A	87.00	WAV	8	04:41	2021-03-08		     
+34	Culture Shock - Bunker (Original Mix)	4A	87.00	WAV	0	04:41	2021-03-30	

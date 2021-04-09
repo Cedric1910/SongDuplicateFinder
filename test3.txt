@@ -1,0 +1,11 @@
+#	Track Title	Key	BPM	File Type	DJ Play Count	Time	Date Added	Comments	Rating
+1	Love To Give [www.slider.kz]	1B	87.00	MP3	8	03:22	2020-04-04		     
+2	Jauz - Higher [www.slider.kz]	4A	126.00	MP3	0	04:34	2020-04-04		     
+3	Bou - Poison	10A	87.50	MP3	9	04:29	2020-04-04		     
+4	Ownglow, Dilemma feat. Courtney Odom - Mercy [www.slider.kz]	12B	87.00	MP3	2	04:58	2020-04-04
+5	Don't Tell Me	11A	87.00	MP3	0	06:18	2020-04-04		     
+6	Birdy - Wings (NuLogic Remix)	9B	87.00	MP3	1	06:21	2019-05-31		     
+7	FISHER - Losing It [www.slider.kz]	6A	125.00	MP3	0	04:08	2020-04-04		     
+8	Pendulum - Witchcraft (Rob Swire's Drumstep Mix)	4A	87.00	MP3	0	05:38	2020-04-04		     
+9	Culture Shock - Neighbourhood	4A	87.00	MP3	3	04:41	2020-04-04		     
+10	Metrik feat. Reija Lee - Cadence [www.slider.kz]	1A	87.00	MP3	15	03:23	2020-04-04
