@@ -2,7 +2,7 @@
 # rekordbox library that he/she has. From here the program will clean up the input file into
 # individual tracks and then compare each song against each other using a sequence matcher 
 # to see if the song is a duplicate to another. 
-# (note: this is not a perfect solution, the program will make some mistakes)
+# (note: this is not a perfect solution, the program may make some mistakes)
 # Author: Cedric Stephani 
 # Version: 1.0.0
 
@@ -11,14 +11,14 @@ import itertools
 import re
 
 #GLOBAL VARS
-file_name = "all_music.txt"
-RATIO = 0.9
+file_name = "test1.txt" #Change this to whatever your playlist is called. 
+RATIO = 0.8 #The ratio is dictates how close two songs need to be for them to be consisered a match. The closer to 1 the more accurate it is. 
 
 # This function will take in all the tracks as a list input and then sort through each one 
 # comparing it with all the other tracks in the list to determine if the two are similar 
 # enough. If the tracks are similar enough based on a ratio then it will output the two tracks 
 # and the given ratio. 
-def CheckSimilarity(tracks, tracks_simple):
+def CheckSimilarity(tracks_simple):
 	similar_tracks = []
 	for a, b in itertools.combinations(tracks_simple, 2):
 		seq = SequenceMatcher(a=a,b=b)
@@ -60,7 +60,7 @@ def getTrackTittles(tracks):
 	return tracks
 
 
-def main():
+def main(): 
 	# Opens the file and splits the lines into an array
 	try:
 		with open(file_name, 'r') as file: # Change this line with the text file you want to open. 
@@ -68,13 +68,13 @@ def main():
 
 		tracks = getTrackTittles(inputFile)
 		tracks_simple = SimplifyTrackTittles(tracks)
-		similar_tracks = CheckSimilarity(tracks, tracks_simple)
+		similar_tracks = CheckSimilarity(tracks_simple)
 
 		#Output similar files (save to output file to make it look nicer)
 		print("Found the following tracks based on an input ratio of: "+str(RATIO)+"\n")
 		for st in similar_tracks:
 			print(st+"\n")
-		
+
 
 	except IOError:
 		print("The file could not be found. Check file path")
