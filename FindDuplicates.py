@@ -11,7 +11,7 @@ import itertools
 import re
 
 #GLOBAL VARS
-file_name = "playlist.txt" #Change this to whatever your playlist is called. 
+file_name = "test1.txt" #Change this to whatever your playlist is called. 
 RATIO = 0.8 #The ratio is dictates how close two songs need to be for them to be consisered a match. The closer to 1 the more accurate it is. 
 
 # This function will take in all the tracks as a list input and then sort through each one 
@@ -58,7 +58,6 @@ def getTrackTittles(tracks):
 		tracks[x] = tracks[x][1]
 
 	return tracks
-
 
 def main(): 
 	# Opens the file and splits the lines into an array
